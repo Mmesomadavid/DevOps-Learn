@@ -36,3 +36,10 @@ GitHub Repository: https://github.com/chef/chef
 Packer by HashiCorp: Packer is an open-source tool for creating identical machine images for multiple platforms from a single source configuration.
 
 GitHub Repository: https://github.com/hashicorp/packer
+
+
+
+
+
+
+![Uploading 1e1fcaa93846fb03d864cd525d0770e6.jpg…]()
